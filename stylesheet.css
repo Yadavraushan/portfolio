@@ -472,6 +472,11 @@ section1{
     padding-left: 30px;
     margin-top: 130px;
 }
+.contact-form {
+    position: relative;
+    left: 780px;
+    top: -440px; /* Adjust this value to move more or less */
+}
 
 
 
@@ -486,6 +491,8 @@ section1{
 }
 
 .contact-text h4 {
+    position: relative;
+    text-align: center;
     margin: 15px 0;
     color: rgb(228, 228, 228);
     font-size: 20px;
